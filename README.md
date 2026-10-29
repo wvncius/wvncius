@@ -3,8 +3,6 @@
 
 # Olá, eu sou Willian! 👋
 
-**Estudante de Engenharia Elétrica | Pesquisa em CV-QKD | Programação**
-
 Graduando em Engenharia Elétrica pela Universidade Federal de Campina Grande (UFCG).
 
 Interesse em computação, sistemas embarcados, criptografia e pesquisa científica.
