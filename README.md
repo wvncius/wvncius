@@ -52,12 +52,11 @@ Pesquisa e desenvolvimento de módulos de software voltados à simulação de Di
 - Simulações em Python
 
 ### 📊 Estatísticas
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wvncius&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wvncius&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wvncius&layout=compact&theme=github_dark&hide_border=true)
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=wvncius&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
